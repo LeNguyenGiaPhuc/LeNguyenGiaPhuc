@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm LeNguyenGiaPhuc
 
 ### A curious student who loves learning and building new things
@@ -31,11 +32,6 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet" />
-</p>
-
-<h3 align="left">Mobile Development:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
 </p>
 
 <h3 align="left">Database:</h3>
