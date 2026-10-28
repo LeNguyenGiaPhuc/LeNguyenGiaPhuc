@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/LeNguyenGiaPhuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LeNguyenGiaPhuc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Le Nguyen Gia Phuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Le Nguyen Gia Phuc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/le-nguyen-gia-phuc-3168353a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Le Nguyen Gia Phuc" height="30" width="40" /></a>
 <a href="https://fb.com/Phúcc Lê" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Phúcc Lê" height="30" width="40" /></a>
 <a href="https://leetcode.com/phucAsian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phucAsian" height="30" width="40" /></a>
 </p>
