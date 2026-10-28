@@ -39,12 +39,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
-<h3 align="left">AI/ML & Data:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="48" height="48"/>
-</p>
-
 <h3 align="left">Cloud, DevOps & Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,figma" />
